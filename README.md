@@ -34,5 +34,5 @@ Using interactive graphs and maps, the final processed data was used to display 
 
 ## Video Explanation
 <a href="https://youtu.be/gvnl0ZfR4DM?t=653" target="_blank">
- <img src="http://img.youtube.com/vi/gvnl0ZfR4DM/hqdefault.jpg" alt="Watch the video"  border="10" />
+ <img src="http://img.youtube.com/vi/gvnl0ZfR4DM/maxresdefault.jpg" alt="Watch the video"  border="10" />
 </a>
