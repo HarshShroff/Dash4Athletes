@@ -27,7 +27,10 @@ Using interactive graphs and maps, the final processed data was used to display 
 
 ## Overview
 
-
+![](https://github.com/HarshShroff/Dash4Athletes/blob/main/imgs/Screenshot%20(44).png)
+![](https://github.com/HarshShroff/Dash4Athletes/blob/main/imgs/Screenshot%20(45).png)
+![](https://github.com/HarshShroff/Dash4Athletes/blob/main/imgs/Screenshot%20(46).png)
+![](https://github.com/HarshShroff/Dash4Athletes/blob/main/imgs/year.png)
 
 ## Video Explanation
 <a href="https://youtu.be/gvnl0ZfR4DM?t=653" target="_blank">
