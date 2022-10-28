@@ -33,7 +33,7 @@ Using interactive graphs and maps, the final processed data was used to display 
 ![](https://github.com/HarshShroff/Dash4Athletes/blob/main/imgs/year.png)
 
 ## Video Explanation
-* Presented tthis project  at SciPy India 2021, organized by **FOSSEE** and **IIT Bombay**.
+* Presented this project  at SciPy India 2021, organized by **FOSSEE** and **IIT Bombay**.
 <a href="https://youtu.be/gvnl0ZfR4DM?t=653" target="_blank">
  <img src="http://img.youtube.com/vi/gvnl0ZfR4DM/maxresdefault.jpg" alt="Watch the video"  border="10" />
 </a>
